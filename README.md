@@ -109,3 +109,9 @@ Developed as part of my Data Science Internship at **Pinnacle Labs**.
 ---
 
 If you find this project interesting, feel free to explore the repository!
+
+## 📄 License
+
+This project is licensed under the **MIT License**. You are free to use, copy, modify, and distribute this software in accordance with the license terms.
+
+See the [LICENSE](LICENSE) file for the full license text.
